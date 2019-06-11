@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\ParserApp\\ParserApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Raman_Hrytsuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raman_Hrytsuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EFCore.BulkExtensions": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\ParserApp\\ParserApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\ParserApp\\ParserApp.csproj",
+        "projectName": "ParserApp",
+        "projectPath": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\ParserApp\\ParserApp.csproj",
+        "packagesPath": "C:\\Users\\Raman_Hrytsuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\ParserApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raman_Hrytsuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\Raman_Hrytsuk\\source\\repos\\Parser_gz_SQL\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

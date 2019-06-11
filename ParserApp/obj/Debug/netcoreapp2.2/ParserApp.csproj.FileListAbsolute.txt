@@ -1,0 +1,14 @@
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\ParserApp.deps.json
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\ParserApp.runtimeconfig.json
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\ParserApp.runtimeconfig.dev.json
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\ParserApp.dll
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\ParserApp.pdb
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.csprojAssemblyReference.cache
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.csproj.CoreCompileInputs.cache
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.AssemblyInfoInputs.cache
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.AssemblyInfo.cs
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.dll
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.pdb
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\Library.dll
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Users\Raman_Hrytsuk\source\repos\Parser_gz_SQL\ParserApp\obj\Debug\netcoreapp2.2\ParserApp.csproj.CopyComplete
