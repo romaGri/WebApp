@@ -109,7 +109,9 @@ namespace Library
                                 torrent.Forum = new Forum()
                                 {
                                     Id = torrent.ForumId.Value,
-                                    Value = xmlReader.ReadElementContentAsString()
+                                    Value = xmlReader.ReadElementContentAsString(),
+                                    ForumId = torrent.ForumId
+                                    
                                 };
                                 break;
                             }
